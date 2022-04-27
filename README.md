@@ -1,12 +1,12 @@
 # 👋 Hi! I'm @Bkopysc 
 ***
-##### Bartłomiej Kopyść
-##### **I'm insterested in:** 🖥️ IT, 🕹️ retro games and  🎬 film making
-##### **I've used a bit:** `Ruby`, `Asembler`, `Spring`,`C++`, `.NET`, `Lua`
-##### **I'm frequently using:** `Python`, `Django/Flask`, `C`, `C#`, `Java`, `React.js`
+## Bartłomiej Kopyść
+### **I'm insterested in:** 🖥️ IT, 🕹️ retro games and  🎬 film making
+### **I've used a bit:** `Ruby`, `Asembler`, `Spring`,`C++`, `.NET`, `Lua`
+### **I'm frequently using:** `Python`, `Django/Flask`, `C`, `C#`, `Java`, `React.js`
 ###### And I want to use even more 👀
-##### **I'm in loved with:** `🗔 Windows` and `🐧 Linux`
-###### You can find here mainly my university projects but also my own ideas
+### **I'm in loved with:** `🗔 Windows` and `🐧 Linux`
+#### You can find here mainly my university projects but also my own ideas
 &nbsp;
 
 ### Currently I'm working on:
@@ -20,13 +20,13 @@
 &nbsp;
 # 👋 Cześć! Jestem @Bkopysc 
 ***
-##### Bartłomiej Kopyść
-##### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
-##### **Używałem trochę:** `Ruby`, `Asembler`, `Spring`, `C++`, `.NET`, `Lua`
-##### **Często używam:** `Python`, `Django/Flask`, `C`, `C#`, `Java`, `React.js`.
+## Bartłomiej Kopyść
+###**Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
+### **Używałem trochę:** `Ruby`, `Asembler`, `Spring`, `C++`, `.NET`, `Lua`
+### **Często używam:** `Python`, `Django/Flask`, `C`, `C#`, `Java`, `React.js`.
 ###### I chcę używać jeszcze więcej 👀
-##### **Uwielbiam:** `🗔 Windows` i `🐧 Linux`.
-###### Znajdziesz tu głównie moje projekty uniwersyteckie, ale także własne pomysły.
+### **Uwielbiam:** `🗔 Windows` i `🐧 Linux`.
+#### Znajdziesz tu głównie moje projekty uniwersyteckie, ale także własne pomysły.
 &nbsp;
 
 ### Obecnie pracuję nad:
