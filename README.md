@@ -21,7 +21,7 @@
 # 👋 Cześć! Jestem @Bkopysc 
 ***
 ## Bartłomiej Kopyść
-###**Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
+### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
 ### **Używałem trochę:** `Ruby`, `Asembler`, `Spring`, `C++`, `.NET`, `Lua`
 ### **Często używam:** `Python`, `Django/Flask`, `C`, `C#`, `Java`, `React.js`.
 ###### I chcę używać jeszcze więcej 👀
