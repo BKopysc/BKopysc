@@ -1,5 +1,5 @@
 # 👋 Hi! I'm @Bkopysc 
-***
+
 ## Bartłomiej Kopyść
 ### **I'm insterested in:** 🖥️ IT, 🕹️ retro games and  🎬 film making
 ### **I've used a bit:** `Ruby`, `Asembler`, `Spring`,`C++`, `.NET`, `Lua`
@@ -18,8 +18,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
-# 👋 Cześć! Jestem @Bkopysc 
 ***
+
+# 👋 Cześć! Jestem @Bkopysc 
+
 ## Bartłomiej Kopyść
 ### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
 ### **Używałem trochę:** `Ruby`, `Asembler`, `Spring`, `C++`, `.NET`, `Lua`
