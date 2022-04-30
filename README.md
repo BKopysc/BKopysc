@@ -1,6 +1,7 @@
 # 👋 Hi! I'm @Bkopysc 
 
 ## Bartłomiej Kopyść
+https://bkopysc.github.io
 ### **I'm insterested in:** 🖥️ IT, 🕹️ retro games and  🎬 film making
 ### **I've used a bit:** `Ruby`, `Asembler`, `Spring`,`C++`, `.NET`, `Lua`
 ### **I'm frequently using:** `Python`, `Django/Flask`, `C`, `C#`, `Java`, `React.js`
@@ -28,6 +29,7 @@ https://masterthegrey.itch.io
 # 👋 Cześć! Jestem @Bkopysc 
 
 ## Bartłomiej Kopyść
+https://bkopysc.github.io
 ### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
 ### **Używałem trochę:** `Ruby`, `Asembler`, `Spring`, `C++`, `.NET`, `Lua`
 ### **Często używam:** `Python`, `Django/Flask`, `C`, `C#`, `Java`, `React.js`.
