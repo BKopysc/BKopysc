@@ -12,9 +12,6 @@ https://bkopysc.github.io
 
 ## Currently I'm working on:
 - Web app for food managment in home area. Expiration date reminders and data analyze for healthy hints 🍏  (`Python` + `Django` + `PostgreSQL`)
-- Web app for reviewing books and films. You can add ratings and items to your library and also share your collection 📙 (`Spring` + `React.js` +`PostgreSQL`)
-- Team project: social web app for sharing favourite places on map: *SocialMap*. Favourite restaurants, graffitis and more in one sketching. Likes and dislikes reactions are welcome 🗺️ (`.NET` + `React.js ` + `Microsoft Express SQL` )
-- Simply 3D graphic engine for university lecture 🖌️ (`C++`)
 &nbsp;
 
 ## Fun zone
@@ -40,9 +37,7 @@ https://bkopysc.github.io
 
 ## Obecnie pracuję nad:
 - Aplikacją internetową do zarządzania jedzeniem w gospodarstwie domowym. Przypominanie o dacie ważności i analiza danych do generowania zdrowych wskazówek 🍏 (`Python` + `Django` + `PostgreSQL`)
-- Aplikacją internetową do recenzowania książek i filmów. Użytkownik może dodawać oceny i pozycje do swojej biblioteki, a także dzielić się swoją kolekcją 📙 (`Spring` + `React.js` + `PostgreSQL`)
-- Projektem zespołowym: aplikacja społecznościowa do dzielenia się ulubionymi miejscami na mapie: *SocialMap*. Ulubione restauracje, graffiti i wiele więcej w jednym miejscu. Mile widziane są reakcje typu "lubię to i nie lubię" 🗺️ (`.NET` + `React.js` + `Microsoft Express SQL` )
-- Prostym silnikiem graficznym 3D na zajęcia 🖌️ (`C++`)
+
 
 ## Strefa zabawy
 Moje gry stworzone w `PICO-8` lub `Unity`:\
