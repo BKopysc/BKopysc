@@ -11,7 +11,7 @@ https://bkopysc.github.io
 &nbsp;
 
 ## Currently I'm working on:
-- Web app for food managment in home area. Expiration date reminders and data analyze for healthy hints 🍏  (`Python` + `Django` + `PostgreSQL`)
+- Web app for food managment in home area. Expiration date reminders and data analyze for healthy hints 🍏  (`Spring Boot` + `Angular` + `PostgreSQL`)
 &nbsp;
 
 ## Fun zone
@@ -36,7 +36,7 @@ https://bkopysc.github.io
 &nbsp;
 
 ## Obecnie pracuję nad:
-- Aplikacją internetową do zarządzania jedzeniem w gospodarstwie domowym. Przypominanie o dacie ważności i analiza danych do generowania zdrowych wskazówek 🍏 (`Python` + `Django` + `PostgreSQL`)
+- Aplikacją internetową do zarządzania jedzeniem w gospodarstwie domowym. Przypominanie o dacie ważności i analiza danych do generowania zdrowych wskazówek 🍏  (`Spring Boot` + `Angular` + `PostgreSQL`)
 
 
 ## Strefa zabawy
