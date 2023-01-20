@@ -4,9 +4,9 @@
 https://bkopysc.github.io
 ### **I'm insterested in:** 🖥️ IT, 🕹️ retro games and  🎬 film making
 ### **I've used a bit:** `Ruby`, `Asembler`, `Spring`,`C++`, `.NET`, `Lua`
-### **I'm frequently using:** `Python`, `Angular`, `C`, `C#`, `Java`, `React.js`
+### **I frequently use:** `Python`, `Angular`, `C`, `C#`, `Java`, `React.js`
 ###### And I want to use even more 👀
-### **I'm in loved with:** `🗔 Windows` and `🐧 Linux`
+### **I'm in love with:** `🗔 Windows` and `🐧 Linux`
 #### You can find here mainly my university projects but also my own ideas
 &nbsp;
 
