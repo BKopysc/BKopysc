@@ -1,3 +1,23 @@
+# 👋 Cześć! Jestem @Bkopysc 
+
+## Bartłomiej Kopyść
+https://bkopysc.github.io
+### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
+### **Używałem trochę:** `Ruby`, `Asembler`,`C++`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
+### **Często używam:** `Python`, `Angular`,  `Spring`, `Java`, `React.js`
+###### I chcę używać jeszcze więcej 👀
+### **Uwielbiam:** `🗔 Windows` i `🐧 Linux`.
+#### Znajdziesz tu głównie moje projekty uniwersyteckie, ale także własne pomysły.
+&nbsp;
+
+## Obecnie pracuję nad:
+- Aplikacją internetową do zarządzania jedzeniem w gospodarstwie domowym. Przypominanie o dacie ważności i analiza danych do generowania zdrowych wskazówek 🍏  (`Spring Boot` + `Angular` + `PostgreSQL`)
+
+
+## Strefa zabawy
+Moje gry stworzone w `PICO-8` lub `Unity`:\
+https://masterthegrey.itch.io
+
 # 👋 Hi! I'm @Bkopysc 
 
 ## Bartłomiej Kopyść
@@ -22,28 +42,5 @@ https://masterthegrey.itch.io
 &nbsp;
 &nbsp;
 ***
-
-# 👋 Cześć! Jestem @Bkopysc 
-
-## Bartłomiej Kopyść
-https://bkopysc.github.io
-### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
-### **Używałem trochę:** `Ruby`, `Asembler`,`C++`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
-### **Często używam:** `Python`, `Angular`,  `Spring`, `Java`, `React.js`
-###### I chcę używać jeszcze więcej 👀
-### **Uwielbiam:** `🗔 Windows` i `🐧 Linux`.
-#### Znajdziesz tu głównie moje projekty uniwersyteckie, ale także własne pomysły.
-&nbsp;
-
-## Obecnie pracuję nad:
-- Aplikacją internetową do zarządzania jedzeniem w gospodarstwie domowym. Przypominanie o dacie ważności i analiza danych do generowania zdrowych wskazówek 🍏  (`Spring Boot` + `Angular` + `PostgreSQL`)
-
-
-## Strefa zabawy
-Moje gry stworzone w `PICO-8` lub `Unity`:\
-https://masterthegrey.itch.io
-
-
-
 
 
