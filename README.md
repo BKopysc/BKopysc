@@ -3,8 +3,8 @@
 ## Bartłomiej Kopyść
 https://bkopysc.github.io
 ### **I'm insterested in:** 🖥️ IT, 🕹️ retro games and  🎬 film making
-### **I've used a bit:** `Ruby`, `Asembler`, `Spring`,`C++`, `.NET`, `Lua`
-### **I frequently use:** `Python`, `Angular`, `C`, `C#`, `Java`, `React.js`
+### **I've used a bit:** `Ruby`, `Asembler`,`C++`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
+### **I frequently use:** `Python`, `Angular`,  `Spring`, `Java`, `React.js`
 ###### And I want to use even more 👀
 ### **I'm in love with:** `🗔 Windows` and `🐧 Linux`
 #### You can find here mainly my university projects but also my own ideas
@@ -28,8 +28,8 @@ https://masterthegrey.itch.io
 ## Bartłomiej Kopyść
 https://bkopysc.github.io
 ### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
-### **Używałem trochę:** `Ruby`, `Asembler`, `Spring`, `C++`, `.NET`, `Lua`
-### **Często używam:** `Python`, `Angular`, `C`, `C#`, `Java`, `React.js`.
+### **Używałem trochę:** `Ruby`, `Asembler`,`C++`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
+### **Często używam:** `Python`, `Angular`,  `Spring`, `Java`, `React.js`
 ###### I chcę używać jeszcze więcej 👀
 ### **Uwielbiam:** `🗔 Windows` i `🐧 Linux`.
 #### Znajdziesz tu głównie moje projekty uniwersyteckie, ale także własne pomysły.
