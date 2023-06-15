@@ -13,10 +13,13 @@ https://bkopysc.github.io
 ## Obecnie pracuję nad:
 - Aplikacją internetową do zarządzania jedzeniem w gospodarstwie domowym. Przypominanie o dacie ważności i analiza danych do generowania zdrowych wskazówek 🍏  (`Spring Boot` + `Angular` + `PostgreSQL`)
 
-
 ## Strefa zabawy
 Moje gry stworzone w `PICO-8` lub `Unity`:\
 https://masterthegrey.itch.io
+
+&nbsp;
+***
+&nbsp;
 
 # 👋 Hi! I'm @Bkopysc 
 
@@ -38,9 +41,7 @@ https://bkopysc.github.io
 My fun games made in `PICO-8` or `Unity`:\
 https://masterthegrey.itch.io
 
+&nbsp;
 
-&nbsp;
-&nbsp;
-***
 
 
