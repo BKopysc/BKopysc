@@ -4,7 +4,7 @@
 Portfolio: https://bkopysc.github.io
 
 ### **Interesuję się:** 🖥️ informatyką, 🕹️ grami retro i 🎬 tworzeniem filmów
-### **Zdarzyło mi się używać:** `Ruby`, `Asembler`, `C++`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
+### **Próbowałem:** `Ruby`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
 ### **Często używam:** `Python`, `Angular`,  `Spring`, `Java`, `React.js`
 
 #### Znajdziesz tu głównie moje projekty studenckie, ale także własne pomysły.
@@ -17,7 +17,7 @@ Portfolio: https://bkopysc.github.io
 
 &nbsp;
 
-## Strefa zabawy
+## Gry
 Moje gry stworzone w `PICO-8` lub `Unity`:\
 https://masterthegrey.itch.io
 
@@ -30,7 +30,7 @@ https://masterthegrey.itch.io
 ## Bartłomiej Kopyść
 Portfolio: https://bkopysc.github.io
 ### **I'm insterested in:** 🖥️ IT, 🕹️ retro games and  🎬 film making
-### **I've used a bit:** `Ruby`, `Asembler`,`C++`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
+### **I've used a bit:** `Ruby`, `.NET`, `Lua`, `C`, `C#`, `Flutter`
 ### **I frequently use:** `Python`, `Angular`,  `Spring`, `Java`, `React.js`
 #### You can find here mainly my university projects but also my own ideas
 &nbsp;
@@ -42,8 +42,8 @@ Portfolio: https://bkopysc.github.io
 &nbsp;
 &nbsp;
 
-## Fun zone
-My fun games made in `PICO-8` or `Unity`:\
+## Games
+My games made in `PICO-8` or `Unity`:\
 https://masterthegrey.itch.io
 
 &nbsp;
