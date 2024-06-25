@@ -12,8 +12,8 @@ Portfolio: https://bkopysc.github.io
 
 ## Obecnie pracuję nad:
 - QIzz - aplikacja do robienia quizów wykorzystującą komendy dla sztucznej inteligencji (Chat-GPT, Bing Copilot) `Angular`
-- Badaniem nad metodami projektowymi i implementacyjnymi dla warstwy frontend `React.js` + `Nest.js` + `MongoDB`
-- EmojiThis - wieloosobowa gra typu kalambury `Angular` + `Nest.js` + `Socket.io`
+- Shortmind - aplikacja do zamieszczania krótkich postów (myśli). `Angular` + `Java Spring Boot`
+- Edytor low-code do generowania aplikacji w Angularze `UML` + `Obeo` + `Sirius`
 
 &nbsp;
 
@@ -37,8 +37,9 @@ Portfolio: https://bkopysc.github.io
 
 ## Currently I'm working on:
 - QIzz - an application for creating quizzes utilizing prompts for artificial intelligence (Chat-GPT, Bing Copilot) `Angular`
-- The study on design and implementation methods of the frontend layer `React.js` + `Nest.js` + `MongoDB`
-- EmojiThis - multiplayer pictionary game `Angular` + `Nest.js` + `Socket.io`
+- Shortmind - an application for posting short posts (thoughts). `Angular` + `Java Spring Boot`
+- Low-code editor for generating applications in Angular `UML` + `Obeo` + `Sirius`
+
 &nbsp;
 &nbsp;
 
